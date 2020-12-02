@@ -1,0 +1,19 @@
+{
+  "name": "pba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pba.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderme932/coderme932.github.io.git"
+  },
+  "author": "coderme932",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderme932/coderme932.github.io/issues"
+  },
+  "homepage": "https://github.com/coderme932/coderme932.github.io#readme"
+}
